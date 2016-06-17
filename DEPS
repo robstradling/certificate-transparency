@@ -40,10 +40,10 @@ deps_overrides = {
      "googlemock/gtest": "https://github.com/AlCutter/googletest-fbsd.git@1.7.0",
      "protobuf":         "https://github.com/benlaurie/protobuf.git@2.6.1-fix",
      "protobuf/gtest":   "https://github.com/AlCutter/googletest-fbsd.git@1.7.0",
-     "libunwind":        "git://git.sv.gnu.org/libunwind.git@v1.1",
+     "libunwind":        "https://github.com/robstradling/libunwind.git@v1.1",
   },
   "linux2": {
-     "libunwind":        "git://git.sv.gnu.org/libunwind.git@v1.1",
+     "libunwind":        "https://github.com/robstradling/libunwind.git@v1.1",
   },
   "darwin": {
      "ldns": "https://github.com/benlaurie/ldns.git@1.6.17-fix",
